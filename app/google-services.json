@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140373954588",
+    "firebase_url": "https://celebrityquiz-project-default-rtdb.firebaseio.com/",
+    "project_id": "celebrityquiz-project",
+    "storage_bucket": "celebrityquiz-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140373954588:android:083a54662fda784e94cfd9",
+        "android_client_info": {
+          "package_name": "com.example.celebrityquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140373954588-djos2glh4se4pl43r52p3lusb8veekou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LH3BJwGLP4KHHlExPbdAjazIVt3mEGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140373954588-djos2glh4se4pl43r52p3lusb8veekou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
